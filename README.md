@@ -113,3 +113,4 @@ RegisterNumber: 25007032
 **Result:**
 
 Program to design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming has been verified successfully.
+
